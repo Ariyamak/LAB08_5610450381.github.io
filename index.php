@@ -24,13 +24,13 @@
     </div>
     <ul class="nav navbar-nav">
       <li class="active"><a href="index.php">Home</a></li>
-      <li><a href="/5610450381_LAB07/lab01/index.html">LAB_01</a></li>
-      <li><a href="/5610450381_LAB07/lab02/index.html">LAB_02</a></li>
-      <li><a href="/5610450381_LAB07/lab03/index.html">LAB_03</a></li>
-      <li><a href="/5610450381_LAB07/lab04/index.html">LAB_04</a></li>
-      <li><a href="/5610450381_LAB07/lab05/index.html">LAB_05</a></li>
-      <li><a href="/5610450381_LAB07/lab06/index1.php">LAB_06.1</a></li>
-      <li><a href="/5610450381_LAB07/lab06/index2.php">LAB_06.2</a></li>
+      <li><a href="/5610450381_LAB08/lab01/index.html">LAB_01</a></li>
+      <li><a href="/5610450381_LAB08/lab02/index.html">LAB_02</a></li>
+      <li><a href="/5610450381_LAB08/lab03/index.html">LAB_03</a></li>
+      <li><a href="/5610450381_LAB08/lab04/index.html">LAB_04</a></li>
+      <li><a href="/5610450381_LAB08/lab05/index.html">LAB_05</a></li>
+      <li><a href="/5610450381_LAB08/lab06/index1.php">LAB_06.1</a></li>
+      <li><a href="/5610450381_LAB08/lab06/index2.php">LAB_06.2</a></li>
     </ul>
   </div>
 </nav>
